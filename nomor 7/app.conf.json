@@ -1,0 +1,7 @@
+{
+	"appName:" "localhost",
+
+	"Server": {
+		"port": 8000
+	}
+}
